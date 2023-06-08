@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :speakeasy, Speakeasy.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "leonid",
+  password: "",
   hostname: "localhost",
   database: "speakeasy_dev",
   stacktrace: true,
